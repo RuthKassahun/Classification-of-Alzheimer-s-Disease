@@ -1,0 +1,27 @@
+{
+    "id": "1D6B7976",
+    "path": "~/Second_Assignment/subsetSelection.R",
+    "project_path": "subsetSelection.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1654688112047.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "4,77",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1654694484,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1654694484903,
+    "read_only": false,
+    "read_only_alternatives": []
+}
